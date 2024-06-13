@@ -1,2 +1,1 @@
-# Llutozz.github.io
-Website containing portfolio work, my contact details and more moving foward.
+Hello! It is rather empty here at the moment... maybe check back later? :)
