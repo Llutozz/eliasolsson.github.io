@@ -2066,7 +2066,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #000000;
+		background: #111010;
 		padding: 5em 0 4em 0;
 		text-align: center;
 	}
@@ -2263,7 +2263,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #000000 url("images/bg02.png");
+		background: #111010 url("images/bg02.png");
 		padding: 4em 0 4em 0;
 	}
 
