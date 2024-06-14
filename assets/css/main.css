@@ -2113,11 +2113,11 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
-					background: #d52349;
+					background: #FF0000;
 				}
 
 				#nav > ul > li.current > a {
-					background: #d52349;
+					background: #990000;
 					color: #fff !important;
 					font-weight: 700;
 				}
