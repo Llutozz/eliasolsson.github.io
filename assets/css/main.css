@@ -33,6 +33,26 @@ body {
 	line-height: 1;
 }
 
+.eliascard{
+    background: url(./pic09.jpg);
+    height: 20em;
+    background-size: cover;
+    background-position: center; 
+    text-decoration: none;
+    padding: 2em;
+    align-items: flex-end;
+    border-radius: 1em;
+    margin-bottom: 0px;
+    transition: .3s;
+    display: flex;
+    /* border: #ffffff00 solid 1px; */
+}
+
+.eliascard:hover {
+    /* border-color: #ffffffff; */
+    transform: scale(1.05);
+}
+
 p.pill{
 
     background-color: #232323a1;
