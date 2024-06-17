@@ -33,6 +33,18 @@ body {
 	line-height: 1;
 }
 
+p.pill{
+
+    background-color: #232323a1;
+    width: max-content;
+    padding: 0em .5em;
+    border-radius: .3em;
+    border-width: thin;
+    border-style: solid;
+    color: #ffffff;
+    margin-bottom: 0em;
+}
+
 ol, ul {
 	list-style: none;
 }
