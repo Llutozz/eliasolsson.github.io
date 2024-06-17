@@ -1540,9 +1540,7 @@ input, select, textarea {
 
 		header > p {
 			display: block;
-			font-style: italic;
-			margin: 0.5em 0 0 0;
-			padding-bottom: 0.5em;
+			margin: 0.1em 0 0 0;
 		}
 
 		header.major {
