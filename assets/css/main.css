@@ -2294,7 +2294,7 @@ input, select, textarea {
 	#main {
 		position: relative;
 		background: #111010 url("images/bg02.png");
-		padding: 4em 0 4em 0;
+		padding: 2em 0 5em 0;
 	}
 
 		#main:before {
