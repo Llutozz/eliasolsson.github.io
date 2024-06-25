@@ -2313,7 +2313,6 @@ input, select, textarea {
 	#footer {
 		position: relative;
 		color: #ffffff;
-		padding: 4em 0;
 	}
 
 		#footer:before {
@@ -2329,7 +2328,7 @@ input, select, textarea {
 		}
 
 		#footer a {
-			color: #c5c4c4;
+			color: #ffffff;
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
