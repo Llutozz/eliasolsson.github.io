@@ -1817,7 +1817,7 @@ footer {
 
 .box.post header {
 	padding-top: 1em;
-	margin: 0 0 2em 0;
+	margin: 0 0 4em 0;
 }
 
 .box.post h2 {
@@ -1826,7 +1826,6 @@ footer {
 }
 
 .box.post header > p {
-	margin-top: 1.25em;
 	font-size: 1.25em;
 }
 
