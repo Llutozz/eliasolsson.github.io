@@ -1796,7 +1796,7 @@ header.major h2 {
 }
 
 footer {
-	margin: 2.25em 0 0 0;
+	margin: 1.25em 0 0 0;
 }
 
 /* Box */
@@ -1816,8 +1816,6 @@ footer {
 }
 
 .box.post header {
-	padding-top: 1em;
-	margin: 0 0 4em 0;
 }
 
 .box.post h2 {
@@ -2127,7 +2125,7 @@ ul.social {
 	padding-left: 0;
 	overflow: hidden;
 	cursor: default;
-	margin: 1em 0 1em 0;
+	margin: 0.5em 0 1em 0;
 }
 
 ul.social li {
