@@ -317,7 +317,7 @@ html {
 }
 
 body {
-	background: #252525;
+	background: #111010;
 	background-image: url("images/bg02.png");
 }
 
@@ -1803,7 +1803,7 @@ footer {
 
 .box {
 	background: #252525;
-	border-bottom: solid 1px #8d6e6e;
+	border-bottom: solid 1px #ffffff;
 	padding: 2.75em 1.75em 2.75em 1.75em;
 }
 
